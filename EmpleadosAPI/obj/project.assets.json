@@ -3441,11 +3441,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\elipi\\workspace\\EmpleadosAPI\\EmpleadosAPI.csproj",
+      "projectUniqueName": "C:\\Users\\elipi\\workspace\\wara_test\\EmpleadosAPI\\EmpleadosAPI.csproj",
       "projectName": "EmpleadosAPI",
-      "projectPath": "c:\\Users\\elipi\\workspace\\EmpleadosAPI\\EmpleadosAPI.csproj",
+      "projectPath": "C:\\Users\\elipi\\workspace\\wara_test\\EmpleadosAPI\\EmpleadosAPI.csproj",
       "packagesPath": "C:\\Users\\elipi\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\elipi\\workspace\\EmpleadosAPI\\obj\\",
+      "outputPath": "C:\\Users\\elipi\\workspace\\wara_test\\EmpleadosAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\elipi\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WGPvztbpMIO/5aHRLYvlo8yKOm1m/IdVtOq8D6dO+o/aQ8gTBrtp0//1agB8+59nKEPwPiXuTzGsi/4CFPkecQ==",
+  "dgSpecHash": "r/MYnHWwdc2n0FbB+YC7hHpt/jznaaGh2NE+//+JwJld+0R4Egu4gaR/FNrCQW26Bnr3ymUoSbx/SqslHf4doQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\elipi\\workspace\\EmpleadosAPI\\EmpleadosAPI.csproj",
+  "projectFilePath": "C:\\Users\\elipi\\workspace\\wara_test\\EmpleadosAPI\\EmpleadosAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\elipi\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\elipi\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
